@@ -1,0 +1,58 @@
+---
+title:
+album_date:
+properties:
+copyright:
+coverimage:
+creation_time: "2021-11-25T05:56:22-05:00"
+modification_time: "2021-11-25T05:58:19-05:00"
+
+photos:
+- file: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18418981).jpg
+  name: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18418981).jpg
+  alt:
+  caption:
+
+- file: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18419375).jpg
+  name: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18419375).jpg
+  alt:
+  caption:
+
+- file: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18419469).jpg
+  name: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18419469).jpg
+  alt:
+  caption:
+
+- file: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18419479).jpg
+  name: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18419479).jpg
+  alt:
+  caption:
+
+- file: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18419495).jpg
+  name: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18419495).jpg
+  alt:
+  caption:
+
+- file: Drawing,_Geometric_design_for_printed_textile,_1800–1818_(CH_18419585).jpg
+  name: Drawing,_Geometric_design_for_printed_textile,_1800–1818_(CH_18419585).jpg
+  alt:
+  caption:
+
+hashes:
+- file: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18418981).jpg
+  hash: sha256:0ca0698ab6e1f31035d09803d31f677ebcae03778af427e54e6b2281290d3a5d
+
+- file: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18419375).jpg
+  hash: sha256:e72a5566614db0f195e73d52036af6849f64a34a4ecdc93f9856055a134ccdb2
+
+- file: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18419469).jpg
+  hash: sha256:0d7cbfdf7f87d68e447e3cd90935fb524cec10868fbcba49de1aa402fe9ddf31
+
+- file: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18419479).jpg
+  hash: sha256:8d4d652a91c0e09b5fe80f705aa573ee334f1d19d7d571dbf4b09553a9375d73
+
+- file: Drawing,_Floral_design_for_printed_textiles,_1800–1818_(CH_18419495).jpg
+  hash: sha256:69e20f3ed069705b00325d5294ad1d942f73ba07a4558bc0a79dd8b08a39c8e0
+
+- file: Drawing,_Geometric_design_for_printed_textile,_1800–1818_(CH_18419585).jpg
+  hash: sha256:a2feead20f91263e34c1e2a54f5cc8bb281d67d94f2e782e630099722a26977d
