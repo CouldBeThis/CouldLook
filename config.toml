@@ -1,3 +1,77 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = "CouldLook-zen"
+# theme = "ananke"
+
+publishDir = "docs"
+#
+# [outputs]
+# 	home = [ "HTML", "RSS", "JSON", "SearchIndex" ]
+# 	section = [ "HTML", "RSS", "JSON" ]
+#
+[taxonomies]
+	category = "categories"
+	tag = "tags"
+
+[markup.goldmark]
+	[markup.goldmark.extensions]
+		definitionList = true
+		footnote = true
+		linkify = true
+		strikethrough = true
+		table = true
+		taskList = true
+		typographer = true
+
+	[markup.goldmark.parser]
+		autoHeadingID = true
+		autoHeadingIDType = "github"
+		[markup.goldmark.parser.attribute]
+			block = false
+			title = true
+
+	[markup.goldmark.renderer]
+		hardWraps = false
+		unsafe = false
+		xhtml = false
+
+	[markup.highlight]
+		codeFences = true
+		guessSyntax = true
+		style = "monokailight"
+			# available styles: https://xyproto.github.io/splash/docs/all.html
+		hl_lines = 2
+
+	[markup.tableOfContents]
+		endLevel = 3
+		ordered = true
+		startLevel = 2
+
+	[markup.asciidocExt]
+		backend = 'html5'
+		extensions = ["asciidoctor-bibtex"]
+			# Possible extensions are asciidoctor-html5s, asciidoctor-bibtex, asciidoctor-diagram, asciidoctor-interdoc-reftext, asciidoctor-katex, asciidoctor-latex, asciidoctor-mathematical, asciidoctor-question, asciidoctor-rouge.
+		failureLevel = 'fatal'
+		noHeaderOrFooter = true
+		preserveTOC = true
+		safeMode = 'unsafe'
+		sectionNumbers = false
+		trace = false
+		verbose = false
+		workingFolderCurrent = false
+		[markup.asciidocExt.attributes]
+
+
+
+
+
+
+
+
+
+
+
+
+
+

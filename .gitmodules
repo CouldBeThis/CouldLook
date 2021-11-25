@@ -1,3 +1,6 @@
 [submodule "themes/CouldLook-zen"]
 	path = themes/CouldLook-zen
 	url = git@github.com:CouldBeThis/CouldLook-zen.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
