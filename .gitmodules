@@ -1,0 +1,3 @@
+[submodule "themes/CouldLook-zen"]
+	path = themes/CouldLook-zen
+	url = git@github.com:CouldBeThis/CouldLook-zen.git
