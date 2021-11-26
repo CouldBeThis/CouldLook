@@ -1,5 +1,3 @@
-fix config.toml [Deploy]
-
- * minor correct from last time
+fill out config.toml [Deploy]
 
 see /deploy script for exactly what was done
