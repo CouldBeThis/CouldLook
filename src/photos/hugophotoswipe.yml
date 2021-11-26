@@ -1,20 +1,20 @@
 ---
-album_file: album.yml
+album_file: collection.yml
 cover_filename: coverimage.jpg
-dim_max_cover: 600x600
-dim_max_large: 1600
-dim_max_small: 800
+dim_max_cover: 2000x2000
+dim_max_large: 6016
+dim_max_small: 3384
 dim_max_thumb: 256x256
 dirname_large: large
 dirname_small: small
-dirname_thumb: thumb
+dirname_thumb: tiny
 jpeg_optimize: False
 jpeg_progressive: False
-jpeg_quality: 75
-markdown_dir: ../../content/galleries/
-output_dir: ../../static/pics/
+jpeg_quality: 100
+markdown_dir: ../../content/inventory/
+output_dir: ../../static/images/
 output_format: jpg
-photo_dir: photos
+photo_dir: images
 smartcrop_js_path:
-url_prefix: /pics/
+url_prefix: /images/
 use_smartcrop_js: False

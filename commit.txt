@@ -1,3 +1,6 @@
-fill out config.toml [Deploy]
+HugoPhotoSwipe - Begin set up [Deploy...]
+
+* Source of files is repo CouldBeThis/HPSTest where I did a bunch of troubleshooting
+* set up very small gallergy with custom nomenclature
 
 see /deploy script for exactly what was done

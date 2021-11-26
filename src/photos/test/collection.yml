@@ -1,0 +1,26 @@
+---
+title: test
+album_date: "2021-11-26T13:47:35-05:00"
+properties:
+copyright:
+coverimage: gyosho_tokaido.jpg
+creation_time: "2021-11-26T13:47:35-05:00"
+modification_time: "2021-11-26T13:53:21-05:00"
+
+photos:
+- file: gyosho_tokaido.jpg
+  name: gyosho_tokaido.jpg
+  alt:
+  caption:
+
+- file: reisho_tokaido.jpg
+  name: reisho_tokaido.jpg
+  alt:
+  caption:
+
+hashes:
+- file: gyosho_tokaido.jpg
+  hash: sha256:71ebb54b87c410f92b8b774b6bb219f82c1befbc2c45050377d6d913529e48ec
+
+- file: reisho_tokaido.jpg
+  hash: sha256:4d0e234b92bf4c67278784ac36aefaa1789f37bad6d6c45b30b49a6939b573d9
