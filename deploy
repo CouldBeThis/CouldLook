@@ -1,10 +1,10 @@
 echo $(date) > content/posts/date.html 
 trash docs
-trash static/pics
-cd src/photos
-hps clean
-hps update
-cd ../..
+# trash static/pics
+# cd src/photos
+# hps clean
+# hps update
+# cd ../..
 hugo
 git st
 git add -A

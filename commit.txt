@@ -1,0 +1,5 @@
+reset [Deploy]
+
+ * delete old hugophotoswipe files, basically site is now blank
+
+see /deploy script for exactly what was done
