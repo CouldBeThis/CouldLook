@@ -1,6 +1,6 @@
-HugoPhotoSwipe - Begin set up [Deploy...]
+HugoPhotoSwipe - Continue basic set up [Deploy...]
 
-* Source of files is repo CouldBeThis/HPSTest where I did a bunch of troubleshooting
-* set up very small gallergy with custom nomenclature
+* Try to fix images not showing up
+* Hope I'm not shooting myself in the foot with changing directory names from default
 
 see /deploy script for exactly what was done

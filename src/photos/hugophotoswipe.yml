@@ -12,9 +12,9 @@ jpeg_optimize: False
 jpeg_progressive: False
 jpeg_quality: 100
 markdown_dir: ../../content/inventory/
-output_dir: ../../static/images/
+output_dir: ../../static/items/
 output_format: jpg
 photo_dir: images
 smartcrop_js_path:
-url_prefix: /images/
+url_prefix: /CouldLook/items/
 use_smartcrop_js: False
