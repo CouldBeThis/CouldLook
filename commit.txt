@@ -1,5 +1,6 @@
-reset [Deploy]
+fix config.toml [Deploy]
 
- * delete old hugophotoswipe files, basically site is now blank
+ * correct errors from before
+ * comment out extras
 
 see /deploy script for exactly what was done
