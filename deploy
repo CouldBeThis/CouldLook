@@ -1,6 +1,6 @@
 echo $(date) > content/posts/date.html 
 trash docs
-trash static/items
+trash static/i*
 cd src/photos
 hps clean
 hps update

@@ -1,5 +1,8 @@
 HugoPhotoSwipe - Templates partly working [Deploy...]
 
-* Pictures show up on /inventory/test (locally anyways)
+hugophotoswipe.yml
+* Revert to more standard file naming
+	- output_dir and url_prefix are probably hard coded somewhere else because the change is not consistent
+* this is a likely source of errors if there are more on live site: url_prefix
 
 see /deploy script for exactly what was done

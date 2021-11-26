@@ -1,6 +1,6 @@
 ---
 album_file: collection.yml
-cover_filename: coverimage.jpg
+cover_filename: feature.jpg
 dim_max_cover: 2000x2000
 dim_max_large: 6016
 dim_max_small: 3384
@@ -12,9 +12,9 @@ jpeg_optimize: False
 jpeg_progressive: False
 jpeg_quality: 100
 markdown_dir: ../../content/inventory/
-output_dir: ../../static/items/
+output_dir: ../../static/images/
 output_format: jpg
-photo_dir: images
+photo_dir: photos
 smartcrop_js_path:
-url_prefix: /CouldLook/items/
+url_prefix: /CouldLook/images/
 use_smartcrop_js: False
