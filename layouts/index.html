@@ -1,0 +1,12 @@
+<html>
+  <body>
+    <main class="container">
+    {{ range .Data.Pages }}
+    <a href="{{ .Permalink }}" style="float: left;margin: 20px;">
+        <h1 id="title">{{ .Title }}</h1>
+        <img alt="{{ .Title }}" src="{{ .Params.cover }}">
+      </a>
+    {{ end }}
+    </main>
+  </body>
+</html>
