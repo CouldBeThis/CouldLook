@@ -5,6 +5,10 @@
     <a href="{{ .Permalink }}" style="float: left;margin: 20px;">
         <h1 id="title">{{ .Title }}</h1>
         <img alt="{{ .Title }}" src="{{ .Params.cover }}">
+		<!-- temporary -->
+		<div class="test">
+			l: "{{ .Permalink }}"
+		</div>
       </a>
     {{ end }}
     </main>

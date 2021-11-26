@@ -1,6 +1,5 @@
-HugoPhotoSwipe - Continue basic set up [Deploy...]
+HugoPhotoSwipe - Templates partly working [Deploy...]
 
-* Try to fix images not showing up
-* Hope I'm not shooting myself in the foot with changing directory names from default
+* Pictures show up on /inventory/test (locally anyways)
 
 see /deploy script for exactly what was done
