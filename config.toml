@@ -1,4 +1,4 @@
-baseURL = https://couldbethis.github.io/CouldLook/
+baseURL = "https://couldbethis.github.io/CouldLook/"
 languageCode = 'en-us'
 title = 'CouldLook'
 theme = "CouldLook-zen"

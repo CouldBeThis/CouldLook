@@ -1,6 +1,5 @@
 fix config.toml [Deploy]
 
- * correct errors from before
- * comment out extras
+ * minor correct from last time
 
 see /deploy script for exactly what was done
